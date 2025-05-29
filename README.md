@@ -3,7 +3,7 @@
 Simple. Fast. Customizable. Almost lazy.
 
 ## 🧃 Features
-- Uses **toml** for package configuration and metadata.
+- Uses **toml** for configuration and package metadata.
 - Supports **asynchronous** downloading of packages
 - **No application is used** to create a package server.
 - **Clean and minimal** CLI interface
