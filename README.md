@@ -2,7 +2,9 @@
 **Package Manager for Linux, written in Go.**  
 Simple. Fast. Customizable. Almost lazy.
 
-## 🧃 Features
+⚠️ This package manager is under development, so the repository is empty.
+
+## 🧃 Features (WIP)
 - Uses **toml** for configuration and package metadata.
 - Supports **asynchronous** downloading of packages
 - **No application is used** to create a package server.
@@ -10,7 +12,7 @@ Simple. Fast. Customizable. Almost lazy.
 - You can create **any repository** (with binary packages or buildable packages)
 - **Simple** syntax
 
-## 🫐 Syntax
+## 🫐 Syntax (WIP)
 - Install packages: cherrys -I <packages>
 - Remove packages: cherrys -R <packages>
 - Update packages: cherrys -Up <packages>
