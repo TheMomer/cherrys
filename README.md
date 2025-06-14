@@ -5,7 +5,7 @@ Simple. Fast. Customizable. Almost lazy.
 ⚠️ This package manager is under development, so the repository is empty.
 
 ## 🧃 Features (WIP)
-- Uses **toml** for configuration and package metadata.
+- Uses **json** for configuration and package metadata.
 - Supports **asynchronous** downloading of packages
 - **No application is used** to create a package server.
 - **Clean and minimal** CLI interface
